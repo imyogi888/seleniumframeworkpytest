@@ -1,0 +1,24 @@
+2023-07-26 00:21:25,902, :INFO :test_e2e :getting all the card titles
+2023-07-26 00:21:33,648, :INFO :test_e2e :Text received from the application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-26 00:27:45,481, :INFO :test_formsubmisssion :first name israhul
+2023-07-26 00:27:48,345, :INFO :test_formsubmisssion :first name isanshika
+2023-07-26 00:27:48,345, :INFO :test_formsubmisssion :first name isanshika
+2023-07-26 00:28:02,021, :INFO :test_e2e :getting all the card titles
+2023-07-26 00:28:10,343, :INFO :test_e2e :Text received from the application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-26 23:37:32,221, :INFO :test_formsubmisssion :first name israhul
+2023-07-26 23:37:35,393, :INFO :test_formsubmisssion :first name isanshika
+2023-07-26 23:37:35,393, :INFO :test_formsubmisssion :first name isanshika
+2023-07-26 23:40:20,742, :INFO :test_formsubmisssion :first name israhul
+2023-07-26 23:40:23,648, :INFO :test_formsubmisssion :first name isanshika
+2023-07-26 23:40:23,648, :INFO :test_formsubmisssion :first name isanshika
+2023-07-26 23:40:38,874, :INFO :test_e2e :getting all the card titles
+2023-07-26 23:40:47,408, :INFO :test_e2e :Text received from the application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-26 23:42:13,158, :INFO :test_formsubmisssion :first name israhul
+2023-07-26 23:42:16,295, :INFO :test_formsubmisssion :first name isanshika
+2023-07-26 23:42:16,295, :INFO :test_formsubmisssion :first name isanshika
+2023-07-26 23:42:30,409, :INFO :test_e2e :getting all the card titles
+2023-07-26 23:42:39,379, :INFO :test_e2e :Text received from the application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
